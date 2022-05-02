@@ -15,7 +15,16 @@ Analyze [FitBit fitness tracker data](https://www.kaggle.com/datasets/arashnic/f
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
+## Deliverables:
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
 
-
-
+## Key Stakeholders:
+1. Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
+2. Sando Mur: Mathematician, Bellabeat’s cofounder and key member of the Bellabeat executive team
+3. Bellabeat marketing analytics team: A team of data analysts guiding Bellabeat's marketing strategy
 
